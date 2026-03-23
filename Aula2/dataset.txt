@@ -1,0 +1,26 @@
+﻿IDCompra,NomeCliente,IDProduto,Quantidade,Preço
+1254,João Silva,P001,2,25
+1255,Ana Souza,P002,3,30
+1254,João Silva,P001,2,25
+ , ,P003,4,40
+1258,Ana Souza,P002,-1,30
+1259,João Silva,P004,3,35
+1260,Carlos Pereira,P001,2,25
+1261,Ana Souza,P003,,40
+1262,João Silva,P002,3,30
+1263,Maria Santos,P005,2,50
+1264,Paulo Silva,P001,2,25
+1265,Maria Rita,P002,3,30
+1266,João Silva,P001,2,25
+1267,Maria Santos,P003,4,40
+ , ,P002,1,30
+1269,José Jesus,P004,3,35
+1270,Carlos Pereira,P001,2,25
+1271,Amanda Lee,P003,1,40
+1272,Jorge Souza,P002,3,30
+1273,Maria Santos,P005,2,50
+1274,Gabriela Hoo,P001,2,25
+1275,Bruna Machado,P002,3,30
+1276,Pedro João,P001,2,25
+1277,Carlos Lee,P003,4,40
+1278,Rita Souza,P002,1,30
