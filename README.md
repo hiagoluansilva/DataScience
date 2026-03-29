@@ -1,46 +1,53 @@
-🇧🇷 Português | 🇺🇸 [English](#english)
+# DataScience — Notebooks Python de Ciência de Dados
 
-# DataScience
-
-Notebooks Jupyter de estudo em **Ciência de Dados** com Python.
-
-## Conteúdo
-
-| Aula | Notebook | Tópico |
-|------|----------|--------|
-| 1 | `Programando_com_Python.ipynb` | Introdução ao Python |
-| 2 | `Aula_2.ipynb` | Análise exploratória |
-| 3 | `ExemploCorrelacao.ipynb` | Correlação entre variáveis |
-| 4 | `ExemploCorrelacao_Regressao.ipynb` | Regressão linear |
-
-## Requisitos
-
-```bash
-pip install jupyter numpy pandas matplotlib seaborn scikit-learn
-jupyter notebook
-```
+🇧🇷 **Português** | 🇺🇸 [English](#english)
 
 ---
 
-<a name="english"></a>
-🇧🇷 [Português](#) | 🇺🇸 English
+## Português
 
-# DataScience
+Coleção de notebooks Jupyter com exercícios práticos de Ciência de Dados e programação Python, organizados em 4 aulas progressivas.
 
-Jupyter Notebooks for **Data Science** studies with Python.
+### Conteúdo
+| Pasta | Conteúdo |
+|---|---|
+| `Aula1/` | Introdução ao Python — tipos, listas, funções básicas |
+| `Aula2/` | Pandas e manipulação de dados — DataFrames, filtros, agrupamentos |
+| `Aula3/` | Visualização de dados — matplotlib, gráficos, análise exploratória |
+| `Aula4/` | Machine Learning introdutório — scikit-learn, modelos básicos |
 
-## Contents
-
-| Lesson | Notebook | Topic |
-|--------|----------|-------|
-| 1 | `Programando_com_Python.ipynb` | Python introduction |
-| 2 | `Aula_2.ipynb` | Exploratory data analysis |
-| 3 | `ExemploCorrelacao.ipynb` | Variable correlation |
-| 4 | `ExemploCorrelacao_Regressao.ipynb` | Linear regression |
-
-## Requirements
-
+### Como executar
 ```bash
-pip install jupyter numpy pandas matplotlib seaborn scikit-learn
+pip install jupyter pandas matplotlib scikit-learn
 jupyter notebook
 ```
+
+### Requisitos
+- Python 3.x
+- Jupyter Notebook ou JupyterLab
+- pandas, matplotlib, scikit-learn, numpy
+
+---
+
+## English
+
+Collection of Jupyter notebooks with practical Data Science and Python programming exercises, organized into 4 progressive lessons.
+
+### Contents
+| Folder | Content |
+|---|---|
+| `Aula1/` | Python introduction — types, lists, basic functions |
+| `Aula2/` | Pandas and data manipulation — DataFrames, filters, groupby |
+| `Aula3/` | Data visualization — matplotlib, charts, exploratory analysis |
+| `Aula4/` | Intro to Machine Learning — scikit-learn, basic models |
+
+### How to run
+```bash
+pip install jupyter pandas matplotlib scikit-learn
+jupyter notebook
+```
+
+### Requirements
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- pandas, matplotlib, scikit-learn, numpy
